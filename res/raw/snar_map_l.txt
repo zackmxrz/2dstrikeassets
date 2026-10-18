@@ -1,0 +1,13 @@
+sn_arrow = 63 0 35 35
+sn_dim = 63 38 20 20
+sn_molotov = 96 38 31 40
+sn_ognemet = 0 0 60 60
+sn_rpg = 0 63 50 50
+snar1 = 0 116 15 15
+snar3 = 101 0 20 20
+snar4 = 96 81 20 20
+snar5 = 18 116 8 8
+snar6 = 104 104 20 20
+snar7 = 53 63 40 40
+snar8 = 53 106 25 25
+snar9 = 81 106 20 20
